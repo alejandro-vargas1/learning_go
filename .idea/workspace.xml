@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7139001-b7c1-47e6-9875-3057197ad146" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Go_projects/go-movies-crud/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_projects/go-movies-crud/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_projects/go-movies-crud/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
